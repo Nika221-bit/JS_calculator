@@ -25,6 +25,7 @@ body{
     color: white;
     font-size:5rem ;
 }
+
 #keys {
     display: flex;
     flex-wrap: wrap;       
@@ -51,9 +52,6 @@ button{
     font-weight: bold;
     cursor: pointer;
 }
-
-
-
 
 .operator_btn{
     background-color: hsl(35, 100%, 55%);
